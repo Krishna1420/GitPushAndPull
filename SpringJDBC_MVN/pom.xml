@@ -41,7 +41,6 @@
 			<artifactId>ojdbc8</artifactId>
 			<version>19.7.0.0</version>
 		</dependency>
-		<!--Added  comment in the junit dependency-->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
